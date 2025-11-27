@@ -1,0 +1,11 @@
+{
+  "name": "xUSDT",
+  "symbol": "xUSDT",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "xUSDT is a fast, stable, and efficient digital currency built on the BNB Smart Chain, designed for real-world utility and large-scale payments.",
+  "website": "https://xusdtpay.com",
+  "explorer": "https://bscscan.com/token/0x79CaA0E30e929530E913d8D96994Ff2c98a20302",
+  "status": "active",
+  "id": "0x79CaA0E30e929530E913d8D96994Ff2c98a20302"
+}

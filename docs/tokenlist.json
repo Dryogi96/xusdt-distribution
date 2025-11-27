@@ -1,0 +1,33 @@
+{
+  "name": "xUSDT Official Token List",
+  "logoURI": "https://xusdtpay.com/logo.png",
+  "timestamp": "2025-11-27T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x79CaA0E30e929530E913d8D96994Ff2c98a20302",
+      "name": "xUSDT",
+      "symbol": "xUSDT",
+      "decimals": 18,
+      "logoURI": "https://xusdtpay.com/logo.png",
+      "tags": [
+        "payments",
+        "currency",
+        "bep20",
+        "mintable",
+        "utility-token"
+      ]
+    }
+  ],
+  "keywords": [
+    "xusdt",
+    "payments",
+    "bep20",
+    "stable-currency"
+  ]
+}
